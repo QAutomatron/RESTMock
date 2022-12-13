@@ -46,5 +46,5 @@ dependencies {
     api(project(':core'))
 
     implementation "androidx.test:rules:${androidXTestVersion}"
-    implementation "androidx.test:runner:${androidXTestVersion}"
+    implementation "androidx.test:runner:${androidXTestRunnerVersion}"
 }
